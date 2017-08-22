@@ -20,10 +20,10 @@ MonoBehaviour:
     y: 30
     width: 950
     height: 801
-  m_MinSize: {x: 615, y: 495}
-  m_MaxSize: {x: 18010, y: 14045}
+  m_MinSize: {x: 613, y: 495}
+  m_MaxSize: {x: 18008, y: 14045}
   vertical: 0
-  controlID: 6457
+  controlID: 9446
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -118,15 +118,15 @@ MonoBehaviour:
     y: 0
     width: 437
     height: 801
-  m_MinSize: {x: 102, y: 121}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 2}
   m_Panes:
   - {fileID: 2}
   - {fileID: 4}
   - {fileID: 5}
   m_Selected: 0
-  m_LastSelected: 2
+  m_LastSelected: 1
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -214,9 +214,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 11.629027
+    m_Target: 28.561457
     speed: 2
-    m_Value: 11.629027
+    m_Value: 28.561457
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -247,10 +247,10 @@ MonoBehaviour:
     y: 0
     width: 513
     height: 801
-  m_MinSize: {x: 513, y: 495}
-  m_MaxSize: {x: 14008, y: 14045}
+  m_MinSize: {x: 511, y: 495}
+  m_MaxSize: {x: 14006, y: 14045}
   vertical: 0
-  controlID: 6480
+  controlID: 9447
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -274,7 +274,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 495}
   m_MaxSize: {x: 10004, y: 14045}
   vertical: 1
-  controlID: 6481
+  controlID: 9448
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -293,8 +293,8 @@ MonoBehaviour:
     y: 0
     width: 234
     height: 530
-  m_MinSize: {x: 202, y: 224}
-  m_MaxSize: {x: 4002, y: 4024}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 9}
   m_Panes:
   - {fileID: 9}
@@ -328,8 +328,8 @@ MonoBehaviour:
     height: 509
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: a61fffff
-    m_LastClickedID: -57434
+    m_SelectedIDs: deeafeff
+    m_LastClickedID: -70946
     m_ExpandedIDs: ece6ffffd0e7ffff2ce8ffff86e8ffffe0e8ffff72f0ffff44fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -371,8 +371,8 @@ MonoBehaviour:
     y: 530
     width: 234
     height: 271
-  m_MinSize: {x: 234, y: 271}
-  m_MaxSize: {x: 10004, y: 10021}
+  m_MinSize: {x: 230, y: 250}
+  m_MaxSize: {x: 10000, y: 10000}
   m_ActualView: {fileID: 11}
   m_Panes:
   - {fileID: 11}
@@ -415,19 +415,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Scripts
+    - Assets/Prefabs
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Prefabs
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /Users/andreciappara/Desktop/BA Hons Interactive & Graphic Design/Year
     2/Synoptic/Game_Design/Synoptic_game/Catch_Game
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: f4290000
-    m_LastClickedID: 10740
+    m_SelectedIDs: e82c0000
+    m_LastClickedID: 11496
     m_ExpandedIDs: 1e25000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -481,9 +481,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: a61fffff
-    m_LastClickedInstanceID: -57434
-    m_HadKeyboardFocusLastEvent: 0
+    m_SelectedInstanceIDs: deeafeff
+    m_LastClickedInstanceID: -70946
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6eeffff4c250000c22400002a2400008c24000028240000642500002c2400009c24000002260000c0d400003a24000000000000b6250000a2dc0000f6260000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -529,8 +529,8 @@ MonoBehaviour:
     y: 0
     width: 279
     height: 801
-  m_MinSize: {x: 279, y: 74}
-  m_MaxSize: {x: 4004, y: 4024}
+  m_MinSize: {x: 277, y: 71}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
