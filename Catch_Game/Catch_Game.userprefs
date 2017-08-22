@@ -1,11 +1,6 @@
-﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameController.cs">
-    <Files>
-      <File FileName="Assets/Scripts/Hat_controller.cs" Line="26" Column="3" />
-      <File FileName="Assets/Scripts/DestroyOnContact.cs" Line="9" Column="29" />
-      <File FileName="Assets/Scripts/GameController.cs" Line="45" Column="9" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+﻿<Properties StartupConfiguration="{D99D06C4-0770-FB07-BA58-F62B4D268E3E}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

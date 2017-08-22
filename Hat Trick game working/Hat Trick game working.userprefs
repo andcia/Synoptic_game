@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{A077C70C-76F3-D716-7909-004FF664FE9E}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Hat Trick - The Catch Game/Scripts/HT_DestroyOnContact.cs">
+    <Files>
+      <File FileName="Assets/Hat Trick - The Catch Game/Scripts/HT_SetParticleSortingLayer.cs" Line="15" Column="3" />
+      <File FileName="Assets/Hat Trick - The Catch Game/Scripts/HT_StartGame.cs" Line="4" Column="1" />
+      <File FileName="Assets/Hat Trick - The Catch Game/Scripts/HT_Score.cs" Line="4" Column="1" />
+      <File FileName="Assets/Hat Trick - The Catch Game/Scripts/HT_Restart.cs" Line="3" Column="1" />
+      <File FileName="Assets/Hat Trick - The Catch Game/Scripts/HT_HatController.cs" Line="37" Column="2" />
+      <File FileName="Assets/Hat Trick - The Catch Game/Scripts/HT_Explode.cs" Line="4" Column="2" />
+      <File FileName="Assets/Hat Trick - The Catch Game/Scripts/HT_DestroyOnContact.cs" Line="4" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
