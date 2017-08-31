@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Hat Trick - The Catch Game/_Scenes/Hat Trick.unity
+- path: Assets/Catch Game/Scenes/Hat Trick.unity
   isLoaded: 1
   isActive: 1

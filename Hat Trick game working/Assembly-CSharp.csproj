@@ -46,16 +46,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Hat Trick - The Catch Game\Scripts\HT_DestroyOnContact.cs" />
-     <Compile Include="Assets\Hat Trick - The Catch Game\Scripts\HT_Explode.cs" />
-     <Compile Include="Assets\Hat Trick - The Catch Game\Scripts\HT_GameController.cs" />
-     <Compile Include="Assets\Hat Trick - The Catch Game\Scripts\HT_HatController.cs" />
-     <Compile Include="Assets\Hat Trick - The Catch Game\Scripts\HT_Restart.cs" />
-     <Compile Include="Assets\Hat Trick - The Catch Game\Scripts\HT_Score.cs" />
-     <Compile Include="Assets\Hat Trick - The Catch Game\Scripts\HT_SetParticleSortingLayer.cs" />
-     <Compile Include="Assets\Hat Trick - The Catch Game\Scripts\HT_StartGame.cs" />
-     <None Include="Assets\Hat Trick - The Catch Game\_ReadMe.txt" />
-     <None Include="Assets\Hat Trick - The Catch Game\Fonts\LuckiestGuy\LICENSE.txt" />
+     <Compile Include="Assets\Catch Game\Scripts\HT_DestroyOnContact.cs" />
+     <Compile Include="Assets\Catch Game\Scripts\HT_Explode.cs" />
+     <Compile Include="Assets\Catch Game\Scripts\HT_GameController.cs" />
+     <Compile Include="Assets\Catch Game\Scripts\HT_HatController.cs" />
+     <Compile Include="Assets\Catch Game\Scripts\HT_Restart.cs" />
+     <Compile Include="Assets\Catch Game\Scripts\HT_Score.cs" />
+     <Compile Include="Assets\Catch Game\Scripts\HT_SetParticleSortingLayer.cs" />
+     <Compile Include="Assets\Catch Game\Scripts\HT_StartGame.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
