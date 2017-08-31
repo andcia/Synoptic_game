@@ -39,7 +39,7 @@ public class HT_GameController : MonoBehaviour {
 	}
 
 	public void StartGame () {
-		splashScreen.SetActive (false);
+		splashScreen.SetActive(false);
 		startButton.SetActive (false);
 		hatController.ToggleControl (true);
 		StartCoroutine (Spawn ());
